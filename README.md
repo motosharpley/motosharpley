@@ -7,12 +7,12 @@
 
 ## Projects
 
-- MyIndieTicket.com
-- CashBTN.com
-- GigglinGoat.com
-- ChefsTab.com
-- HowToGro.com
-- DevPath.tech
+- [MyIndieTicket.com](https://myindieticket.com)
+- [CashBTN.com](https://cashbtn.com)
+- [GigglinGoat.com](https://gigglingoat.com)
+- [ChefsTab.com](https://chefstab.com)
+- [HowToGro.com](https://howtogro.com)
+- [DevPath.tech](https://devpath.tech)
 
 
 
