@@ -7,12 +7,12 @@
 
 ## Projects
 
-- [MyIndieTicket.com](https://myindieticket.com)
-- [CashBTN.com](https://cashbtn.com)
-- [GigglinGoat.com](https://gigglingoat.com)
-- [ChefsTab.com](https://chefstab.com)
-- [HowToGro.com](https://howtogro.com)
-- [DevPath.tech](https://devpath.tech)
+- [MyIndieTicket.com](https://myindieticket.com) Connecting Artists and their fans with NFT Authenticity
+- [CashBTN.com](https://cashbtn.com) Simple Secure Crypto Payments
+- [GigglinGoat.com](https://gigglingoat.com) NFT Prize Pool Competitive Comedy
+- [ChefsTab.com](https://chefstab.com) Empowering Great Chefs with NFT Recipes Royalties Included
+- [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff.
+- [DevPath.tech](https://devpath.tech) My little pet project that has been putting around for a few years currently getting revamped for Web3
 
 
 
