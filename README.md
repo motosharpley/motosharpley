@@ -11,7 +11,7 @@
 - [CashBTN.com](https://cashbtn.com) Simple Secure Crypto Payments
 - [GigglinGoat.com](https://gigglingoat.com) NFT Prize Pool Competitive Comedy
 - [ChefsTab.com](https://chefstab.com) Empowering Great Chefs with NFT Recipes Royalties Included
-- [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff.
+- [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7gCZJ7Of3LmQ_lK5X-Rhmw)
 - [DevPath.tech](https://devpath.tech) My little pet project that has been putting around for a few years currently getting revamped for Web3
 
 
