@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Bryan 
 
 [![Bryan Sharpley Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsharpley/)
-[![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
-
 
 
 ## Projects
 
+- [DevPath.tech](https://devpath.tech) My little pet project that has been putting around for a few years currently getting revamped for Web3 [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
 - [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7gCZJ7Of3LmQ_lK5X-Rhmw)
-- [DevPath.tech](https://devpath.tech) My little pet project that has been putting around for a few years currently getting revamped for Web3
 - [MyIndieTicket.com](https://myindieticket.com) Connecting Artists and their fans with NFT Authenticity
 - [CashBTN.com](https://cashbtn.com) Simple Secure Crypto Payments
 - [GigglinGoat.com](https://gigglingoat.com) NFT Prize Pool Competitive Comedy - Get out your best Memes and GIFs!
