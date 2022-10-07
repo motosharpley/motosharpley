@@ -3,7 +3,7 @@
 [![Bryan Sharpley Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsharpley/)
 
 
-## Projects
+## My Projects
 
 - [DevPath.tech](https://devpath.tech) My goodwill project teaching others to code through open source projects and free forever learning materials. [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
 - [Scrypto-Snippets](https://marketplace.visualstudio.com/items?itemName=DevPath.scrypto-snippets) A VS Code extension for the Scrypto progrmming language.
