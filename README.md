@@ -8,7 +8,6 @@
 - [DevPath.tech](https://devpath.tech) My goodwill project teaching others to code through open source projects and free forever learning materials. [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
 - [Scrypto-Snippets](https://marketplace.visualstudio.com/items?itemName=DevPath.scrypto-snippets) A VS Code extension for the Scrypto progrmming language.
 - [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7gCZJ7Of3LmQ_lK5X-Rhmw)
-- [MyIndieTicket.com](https://myindieticket.com) Connecting Artists and their fans with NFT Authenticity
 - [CashBTN.com](https://cashbtn.com) Simple Secure Crypto Payments
 - [GigglinGoat.com](https://gigglingoat.com) NFT Prize Pool Competitive Comedy - Get out your best Memes and GIFs!
 - [ChefsTab.com](https://chefstab.com) Empowering Great Chefs with NFT Recipes Royalties Included
