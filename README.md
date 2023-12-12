@@ -14,4 +14,4 @@
 
 
 
-⚡ Fun fact: My first computer was and Apple IIc and this was the first DevPath logo ![devpathlogo](https://user-images.githubusercontent.com/17731807/185766107-8dd13f16-5fe8-446e-989a-fb7196af46d8.png)
+⚡ Fun fact: My first computer was an Apple IIc and this was the first DevPath logo ![devpathlogo](https://user-images.githubusercontent.com/17731807/185766107-8dd13f16-5fe8-446e-989a-fb7196af46d8.png)
