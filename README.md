@@ -5,7 +5,7 @@
 
 ## My Projects
 
-- [DevPath.pro](https://devpath.pro) My goodwill project teaching others to code through open source projects and free forever learning materials. [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
+- [DevPath.pro](https://devpath.pro) My hobby project teaching others to code through open source projects and learning materials. [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpprazufqp6UCSqwCv2ua6g)
 - [CashBTN.com](https://cashbtn.com) Playground project example of a crypto casino.
 - [GigglinGoat.com](https://gigglingoat.com) Meme Creation and Contests Crypto Style.
 - [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7gCZJ7Of3LmQ_lK5X-Rhmw)
