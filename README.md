@@ -4,11 +4,12 @@
 
 
 ## My Projects
-- [AceMyPrompt.com](https://acemyprompt.com) Ace My Prompt is an Ai powered prompt engineering app. Ace acts as your dedicated Prompt Engineer, interviewing you to build the perfect "3C" Master Prompt instantly. 
+- [AceMyPrompt.com](https://acemyprompt.com) Ace My Prompt is the ultimate toolkit to master your AI interactions. A Command Center with intelligent prompt refinement, specialized expert personas, and a suite of creator studios to transform your intent into impact.
+- [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@howtogro?sub_confirmation=1)
 - [DevPath.pro](https://devpath.pro) My hobby project teaching others to code through open source projects and learning materials. [![DevPath YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devpath_pro?sub_confirmation=1)
 - [CashBTN.com](https://cashbtn.com) Playground project example of a crypto casino.
 - [GigglinGoat.com](https://gigglingoat.com) Meme Creation and Contests Crypto Style.
-- [HowToGro.com](https://howtogro.com) Just a fun project about growing stuff. [![HowToGro YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@howtogro?sub_confirmation=1)
+
 
 
 
